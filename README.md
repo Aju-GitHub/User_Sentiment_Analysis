@@ -6,12 +6,19 @@ Repository Structure
 
 User_Sentiment_Analysis/
 app.py                   - Streamlit app for live demo
+
 sentiment_model.h5       - Saved trained model
+
 tokenizer.pkl            - Saved tokenizer
+
 report.pdf               - Research report (LaTeX compiled PDF)
+
 README.md                - Documentation
+
 requirements.txt         - Dependencies
+
 plots/                   - Accuracy/loss plots
+
 code_notebook.ipynb      - Full training notebook
 
 **Features**
