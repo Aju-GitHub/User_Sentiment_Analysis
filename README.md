@@ -1,4 +1,5 @@
 # User Sentiment Analysis
+
 This project applies LSTM-based deep learning to analyze user sentiments from airline reviews.
 It demonstrates how sentiment analysis can be used from different perspectives — business, cybersecurity, and customer support.
 
@@ -22,6 +23,7 @@ plots/                   - Accuracy/loss plots
 code_notebook.ipynb      - Full training notebook
 
 **Features**
+
 Deep Learning Model (LSTM) for sentiment classification
 
 Supports positive vs negative sentiment
