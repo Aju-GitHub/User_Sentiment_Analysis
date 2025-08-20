@@ -3,7 +3,7 @@
 This project applies LSTM-based deep learning to analyze user sentiments from airline reviews.
 It demonstrates how sentiment analysis can be used from different perspectives — business, cybersecurity, and customer support.
 
-Repository Structure
+**Repository Structure:**
 
 User_Sentiment_Analysis/
 
