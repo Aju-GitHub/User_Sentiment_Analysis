@@ -6,27 +6,28 @@ It demonstrates how sentiment analysis can be used from different perspectives â
 Repository Structure
 
 User_Sentiment_Analysis/
-Accuracy plot
 
-Loss plot
+- Accuracy plot            - png
 
-README.md                - Documentation
+- Loss plot                - png
 
-Tweet Data Set.csv       - Dataset
+- README.md                - Documentation
 
-report.pdf               - Research report (LaTeX compiled PDF)
+- Tweet Data Set.csv       - Dataset
 
-code_notebook.ipynb      - Full training notebook
+- code_notebook.ipynb      - Full training notebook
 
-negative comment.png     - Streamlit Output Sample
+- negative comment.png     - Streamlit Output Sample
 
-requirements.txt         - Dependencies
+- report.pdf               - Research report (LaTeX compiled PDF)
 
-app.py                   - Streamlit app for live demo
+- requirements.txt         - Dependencies
 
-sentiment_model.h5       - Saved trained model
+- app.py                   - Streamlit app for live demo
 
-tokenizer.pkl            - Saved tokenizer
+- sentiment_model.h5       - Saved trained model
+
+- tokenizer.pkl            - Saved tokenizer
 
 **Features**
 
