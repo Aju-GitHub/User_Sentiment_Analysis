@@ -37,7 +37,7 @@ Supports positive vs negative sentiment
 
 **Rights and Usage:**
 
-All reports, documentation, and related artifacts are the intellectual property of the owner of this repository.
+All reports, documentation, and related artifacts are the intellectual property of Ajmal M S.
 
 Shared resources are provided solely as a record of my involvement, competencies, and learning outcomes.
 
