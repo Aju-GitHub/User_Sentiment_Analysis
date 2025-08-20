@@ -35,9 +35,13 @@ Deep Learning Model (LSTM) for sentiment classification
 
 Supports positive vs negative sentiment
 
-Includes report (PDF) covering business, cybersecurity, and customer support use cases
+**Rights and Usage:**
 
-Simple Streamlit interface for live predictions
+All reports, documentation, and related artifacts are the intellectual property of the owner of this repository.
 
-Reproducible Colab notebook for training
+Shared resources are provided solely as a record of my involvement, competencies, and learning outcomes.
+
+No content from this repository may be copied, altered, shared, or reused without explicit permission.
+
+© Ajmal M S, 2025
 
