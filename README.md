@@ -7,27 +7,27 @@ Repository Structure
 
 User_Sentiment_Analysis/
 
-- Accuracy plot            - png
+/- Accuracy plot            - png
 
-- Loss plot                - png
+/- Loss plot                - png
 
-- README.md                - Documentation
+/- README.md                - Documentation
 
-- Tweet Data Set.csv       - Dataset
+/- Tweet Data Set.csv       - Dataset
 
-- code_notebook.ipynb      - Full training notebook
+/- app.py                   - Streamlit app for live demo 
 
-- negative comment.png     - Streamlit Output Sample
+/- code_notebook.ipynb      - Full training notebook
 
-- report.pdf               - Research report (LaTeX compiled PDF)
+/- negative comment.png     - Streamlit Output Sample
 
-- requirements.txt         - Dependencies
+/- report.pdf               - Research report (LaTeX compiled PDF)
 
-- app.py                   - Streamlit app for live demo
+/- requirements.txt         - Dependencies
 
-- sentiment_model.h5       - Saved trained model
+/- sentiment_model.h5       - Saved trained model
 
-- tokenizer.pkl            - Saved tokenizer
+/- tokenizer.pkl            - Saved tokenizer
 
 **Features**
 
