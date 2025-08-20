@@ -18,7 +18,7 @@ README.md                - Documentation
 
 requirements.txt         - Dependencies
 
-plots/                   - Accuracy/loss plots
+plots                    - Accuracy/loss plots
 
 code_notebook.ipynb      - Full training notebook
 
